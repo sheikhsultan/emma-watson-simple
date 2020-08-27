@@ -1,15 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Header from './Component/Header/Header';
+import Courses from './Component/Courses/Courses';
+// import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        
+    <div>
+      <header>
+        <Header></Header>
+        <Courses></Courses>
       </header>
     </div>
   );
-}
+} 
 
 export default App;
+ 
