@@ -1,4 +1,4 @@
-unfortunately I didnt seen jhankar bhai's fb post due to offline on facebook. I'm completely mobile addicted. so i decided not to touch my mobile while doing assignment. for lake of info i coundn't know about netlify. sorry for that.
+unfortunately I didnt see jhankar bhai's fb post due to offline on facebook. I'm completely mobile addicted. so i decided not to touch my mobile while doing assignment. for lake of info i coundn't know about netlify. sorry for that.
 
 Netlify hosting link - https://agitated-tereshkova-ac72d3.netlify.app/
 
