@@ -1,3 +1,40 @@
+unfortunately I didnt seen jhankar bhai's fb post due to offline on facebook. I'm completely mobile addicted. so i decided not to touch my mobile while doing assignment. for lake of info i coundn't know about netlify. sorry for that.
+
+Netlify hosting link - https://agitated-tereshkova-ac72d3.netlify.app/
+
+some evidence of this situation when this happened
+https://m.facebook.com/groups/893000287861502?view=permalink&id=957980094696854
+
+https://m.facebook.com/groups/893000287861502?view=permalink&id=958023218025875
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
